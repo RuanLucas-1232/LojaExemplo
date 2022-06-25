@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #092A51;
+}
+
+header a, h2{
+    color: white;
+}
+
+.container-grid{
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.header-flex{
+    display: flex;
+    height: 43px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 54%;/*Força a separação entre os itens*/
+}
+
+body img{
+    width: 100%;
+}
