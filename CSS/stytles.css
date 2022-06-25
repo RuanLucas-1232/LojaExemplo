@@ -15,7 +15,6 @@ header a, h2{
 .container-grid{
     max-width: 1200px;
     margin: 0 auto;
-    border: 1px solid black;
 }
 
 .header-flex{
