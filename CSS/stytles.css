@@ -30,7 +30,3 @@ header a, h2{
     justify-content: space-between;
     width: 54%;/*Força a separação entre os itens*/
 }
-
-body img{
-    width: 100%;
-}
